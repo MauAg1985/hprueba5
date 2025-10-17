@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "MauAg1985",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143436034?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "MauAg1985",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-10-17T06:41:46.535Z",
-    "updated_at": "2025-10-17T06:41:46.535Z"
-  }
+    "updated_at": "2025-10-17T06:41:46.535Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "69f870e9-b736-4968-9f0c-933eb5154a1a": {
+      "content": [],
+      "created_at": "2025-10-17T06:41:46.572Z",
+      "created_by": "MauAg1985",
+      "title": "Harguindeguy_prueba5",
+      "updated_at": "2025-10-17T06:41:46.572Z",
+      "updated_by": "MauAg1985",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "69f870e9-b736-4968-9f0c-933eb5154a1a"
+  ]
 }
