@@ -1,1 +1,64 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[{"login_name":"MauAg1985","avatar_url":"https://avatars.githubusercontent.com/u/143436034?v=4","admin":true}],"project":{"github_org":"MauAg1985","is_private":false,"title":"Harguindeguy_prueba5","description":"sdjnflsknf","language":"en","slug":"hprueba5","creator":"MauAg1985","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"category":"_uncategorized_","tag":"violaciones a los ddhh"}]},"created_at":"2025-10-17T06:41:46.535Z","updated_at":"2025-10-17T06:43:56.282Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"69f870e9-b736-4968-9f0c-933eb5154a1a":{"content":[],"created_at":"2025-10-17T06:41:46.572Z","created_by":"MauAg1985","title":"Harguindeguy_prueba5","updated_at":"2025-10-17T06:41:46.572Z","updated_by":"MauAg1985","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["69f870e9-b736-4968-9f0c-933eb5154a1a"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [
+    {
+      "login_name": "MauAg1985",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143436034?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "MauAg1985",
+    "is_private": false,
+    "title": "Harguindeguy_prueba5",
+    "description": "sdjnflsknf",
+    "language": "en",
+    "slug": "hprueba5",
+    "creator": "MauAg1985",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "violaciones a los ddhh"
+        }
+      ]
+    },
+    "created_at": "2025-10-17T06:41:46.535Z",
+    "updated_at": "2025-10-17T06:43:57.444Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "69f870e9-b736-4968-9f0c-933eb5154a1a": {
+      "content": [],
+      "created_at": "2025-10-17T06:41:46.572Z",
+      "created_by": "MauAg1985",
+      "title": "Harguindeguy_prueba5",
+      "updated_at": "2025-10-17T06:41:46.572Z",
+      "updated_by": "MauAg1985",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "69f870e9-b736-4968-9f0c-933eb5154a1a"
+  ]
+}
